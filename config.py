@@ -35,7 +35,7 @@ CLONE_DB_URI = environ.get("CLONE_DB_URI", "")
 CDB_NAME = environ.get("CDB_NAME", "clonetechvj")
 
 # Database Information
-DB_URI = environ.get("DB_URI", "mongodb+srv://vrtuniverse:<password>@cluster0.qbfmgoc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = environ.get("DB_URI", "mongodb+srv://vizzgamingofficial:vizzgamingofficial@vrtuni2.hurubhh.mongodb.net/?retryWrites=true&w=majority&appName=vrtuni2")
 DB_NAME = environ.get("DB_NAME", "abcde")
 
 # Auto Delete Information
